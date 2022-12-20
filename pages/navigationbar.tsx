@@ -9,7 +9,7 @@ export default function NavigationBar() {
 			.then(response => response.json())
 			.then(setPaths)
 			.catch(console.error);
-	});
+	}, []);
 	const toggleNavigationBarVisibility = () => {
 		setNavigationBarVisibility(!showNavigationBar);
 	};
