@@ -1,10 +1,13 @@
 {
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
-  "/_document": "pages/_document.js",
   "/api/routes": "pages/api/routes.js",
-  "/doc_pages/form_builder": "pages/doc_pages/form_builder.js",
-  "/doc_pages/player_iterator": "pages/doc_pages/player_iterator.js",
-  "/doc_pages/players": "pages/doc_pages/players.js",
-  "/doc_pages/object_form": "pages/doc_pages/object_form.js"
+  "/doc_pages/form_builder": "pages/doc_pages/form_builder.html",
+  "/doc_pages/object_form": "pages/doc_pages/object_form.html",
+  "/doc_pages/player_iterator": "pages/doc_pages/player_iterator.html",
+  "/doc_pages/players": "pages/doc_pages/players.html",
+  "/": "pages/index.html",
+  "/navigationbar": "pages/navigationbar.html",
+  "/_document": "pages/_document.js",
+  "/404": "pages/404.html"
 }
